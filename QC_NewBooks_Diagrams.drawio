@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" pages="2">
-  <diagram name="Part A — Flowchart" id="QnBAP9aXYvNu6ZF-rCkh">
+  <diagram name="Part A - Flowchart" id="QnBAP9aXYvNu6ZF-rCkh">
     <mxGraphModel dx="1813" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -163,11 +163,14 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="nDi1GZOVPbw4Dck2ID08" name="Database ERD">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="O5Eo2jADnQy8QwonEQBL" name="Part B - ERD">
+    <mxGraphModel dx="1325" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1x_jVFEwC1A08awvV38i-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;QC NewBooks - Database Structure&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="370" y="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
