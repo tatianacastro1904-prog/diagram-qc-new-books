@@ -7,8 +7,14 @@
         <mxCell id="nI77kk6SrBUpWzHhkZC--1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=20;" value="QC Newbooks - Post Entry Logic" vertex="1">
           <mxGeometry height="30" width="330" y="10" as="geometry" />
         </mxCell>
+        <mxCell id="nI77kk6SrBUpWzHhkZC--4" edge="1" parent="1" source="nI77kk6SrBUpWzHhkZC--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nI77kk6SrBUpWzHhkZC--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nI77kk6SrBUpWzHhkZC--2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;gradientColor=none;fillColor=#F2D7E5;" value="&lt;b&gt;START&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="90" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="nI77kk6SrBUpWzHhkZC--3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#c0dff7, #ededed);" value="Post Entry" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
